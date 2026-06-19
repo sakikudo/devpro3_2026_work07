@@ -25,4 +25,5 @@ iput2026-Gomi, 趣味を探しています。
 Iput2026-morita, Conflict resolved successfully!
 m4k74, My favorite food is pasta.
 IPUT-Yoshikawa, mainブランチで修正
+iput2024-yoshimoto, なるほど
 
